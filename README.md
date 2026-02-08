@@ -1,4 +1,6 @@
 # `compiler-builtins` and `libm`
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fcompiler-builtins.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fcompiler-builtins?ref=badge_shield)
+
 
 This repository contains two main crates:
 
@@ -25,3 +27,6 @@ More details are in [LICENSE.txt](LICENSE.txt) and
 
 [MIT License]: https://opensource.org/license/mit
 [Apache License, Version 2.0]: htps://www.apache.org/licenses/LICENSE-2.0
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fcompiler-builtins.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fcompiler-builtins?ref=badge_large)
